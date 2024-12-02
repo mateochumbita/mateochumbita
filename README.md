@@ -27,16 +27,16 @@ I am Mateo Chumbita, a student and tech enthusiast with a passion for software d
 <p align="center">
 
 
- <a href="https://www.linkedin.com/in/alamin20/">
+ <a href="www.linkedin.com/in/mateo-chumbita-91a999226">
  
  <img border="0" alt="Hrugved's LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
  </a>
 
  
- <a href="https://discord.com/invite/5RmW6dZKpe6">
+ <a href="">
  <img border="0" alt="HrugVed (He/Him)#8131" src="https://img.icons8.com/fluent/42/000000/discord-logo.png"/>
  </a>
- <a href="mailto:alamin.contact24@gmail.com">
+ <a href="mailto:mateojoaquinchumbita@gmail.com">
  <img border="0" alt="Hrugved's Mail" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
  </a>
 </p>
