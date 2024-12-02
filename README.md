@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Mateo Chumbita <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-
+<div align="center" width="100">
   <h3>Languages</h3>
 
   <img
@@ -37,7 +37,7 @@
     alt="Java">
     &nbsp;&nbsp;&nbsp;&nbsp;
  
-
+</div>
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
